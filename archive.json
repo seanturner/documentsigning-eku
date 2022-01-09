@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-01-06T00:19:57.408411+00:00",
+  "timestamp": "2022-01-09T00:20:27.526597+00:00",
   "repo": "lamps-wg/documentsigning-eku",
   "labels": [
     {
@@ -50,5 +50,32 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOGkKB0c4wpvRu",
+      "title": "Fix expression",
+      "url": "https://github.com/lamps-wg/documentsigning-eku/pull/1",
+      "state": "OPEN",
+      "author": "tadahik",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "This PR contains corrections to more accurate expression.\r\nThis PR does not contains modification related to backwards compatibility and interoperability.\r\n",
+      "createdAt": "2022-01-07T10:07:15Z",
+      "updatedAt": "2022-01-07T10:07:15Z",
+      "baseRepository": "lamps-wg/documentsigning-eku",
+      "baseRefName": "main",
+      "baseRefOid": "069a71998a7c1bb5fb62fa917a8f5ad7a027a39c",
+      "headRepository": "tadahik/documentsigning-eku",
+      "headRefName": "main",
+      "headRefOid": "d84bd767379c2df79bc504580fa2da18bf0fcddf",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
