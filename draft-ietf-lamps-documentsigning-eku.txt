@@ -5,10 +5,10 @@
 LAMPS                                                             T. Ito
 Internet-Draft                                           SECOM CO., LTD.
 Intended status: Standards Track                                T. Okubo
-Expires: 25 June 2022                                     DigiCert, Inc.
+Expires: 15 July 2022                                     DigiCert, Inc.
                                                                S. Turner
                                                                    sn3rd
-                                                        22 December 2021
+                                                         11 January 2022
 
 
   General Purpose Extended Key Usage (EKU) for Document Signing X.509
@@ -37,11 +37,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 June 2022.
+   This Internet-Draft will expire on 15 July 2022.
 
 Copyright Notice
 
-   Copyright (c) 2021 IETF Trust and the persons identified as the
+   Copyright (c) 2022 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
